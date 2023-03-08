@@ -5,8 +5,10 @@
 - PyQt 복습
 - QtDesigner 학습
 - Naver API 뉴스 검색 App. 만들기
-
-![네이버뉴스앱]()
+<!-- HTML 주석
+![네이버뉴스앱](https://github.com/d0ng999/miniProjects/blob/main/images/naver_news2.png)
+-->
+<img src="https://github.com/d0ng999/miniProjects/blob/main/images/naver_news2.png" width="700" />
 
 ## DB연동 GUI 개발 학습
 
