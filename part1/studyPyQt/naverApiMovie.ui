@@ -9,8 +9,8 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>640</width>
-    <height>400</height>
+    <width>800</width>
+    <height>500</height>
    </rect>
   </property>
   <property name="sizePolicy">
@@ -21,14 +21,14 @@
   </property>
   <property name="minimumSize">
    <size>
-    <width>640</width>
-    <height>400</height>
+    <width>800</width>
+    <height>500</height>
    </size>
   </property>
   <property name="maximumSize">
    <size>
-    <width>640</width>
-    <height>400</height>
+    <width>800</width>
+    <height>500</height>
    </size>
   </property>
   <property name="font">
@@ -44,7 +44,7 @@
     <rect>
      <x>10</x>
      <y>10</y>
-     <width>621</width>
+     <width>780</width>
      <height>71</height>
     </rect>
    </property>
@@ -59,7 +59,7 @@
         <rect>
          <x>40</x>
          <y>20</y>
-         <width>539</width>
+         <width>701</width>
          <height>30</height>
         </rect>
        </property>
@@ -72,10 +72,28 @@
          </widget>
         </item>
         <item>
-         <widget class="QLineEdit" name="txtSearch"/>
+         <widget class="QLineEdit" name="txtSearch">
+          <property name="locale">
+           <locale language="Korean" country="SouthKorea"/>
+          </property>
+          <property name="inputMethodHints">
+           <set>Qt::ImhNone</set>
+          </property>
+          <property name="text">
+           <string/>
+          </property>
+         </widget>
         </item>
         <item>
          <widget class="QPushButton" name="btnSearch">
+          <property name="font">
+           <font>
+            <stylestrategy>PreferDefault</stylestrategy>
+           </font>
+          </property>
+          <property name="inputMethodHints">
+           <set>Qt::ImhNoPredictiveText</set>
+          </property>
           <property name="text">
            <string>검색</string>
           </property>
@@ -92,8 +110,8 @@
     <rect>
      <x>10</x>
      <y>89</y>
-     <width>621</width>
-     <height>301</height>
+     <width>781</width>
+     <height>401</height>
     </rect>
    </property>
    <layout class="QVBoxLayout" name="resultLayout">
