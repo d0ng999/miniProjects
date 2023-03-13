@@ -34,7 +34,7 @@
   - qrcode 모듈 설치
   - PyQt
 
-![QR코드App](https://github.com/d0ng999/miniProjects/main/studyPython/qrcode.png)
+![QR코드App](https://github.com/d0ng999/miniProjects/blob/main/part1/studyPython/qrcode.png)
 
 - 컴퓨터 정보출력 App
   - psutil 모듈 사용
@@ -42,7 +42,7 @@
   - requests 모듈 사용
   - PyQt
 
-![컴퓨터정보App](https://github.com/d0ng999/miniProjects/main/studyPython/config.png)
+![컴퓨터정보App](https://github.com/d0ng999/miniProjects/blob/main/part1/studyPython/config.png)
 
 
 ## 미니프로젝트 실습
