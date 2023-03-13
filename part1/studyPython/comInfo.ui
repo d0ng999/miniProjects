@@ -18,9 +18,14 @@
   </property>
   <property name="maximumSize">
    <size>
-    <width>500</width>
+    <width>400</width>
     <height>310</height>
    </size>
+  </property>
+  <property name="font">
+   <font>
+    <family>나눔고딕</family>
+   </font>
   </property>
   <property name="windowTitle">
    <string>내 컴퓨터 정보</string>
