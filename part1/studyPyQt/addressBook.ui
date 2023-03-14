@@ -174,7 +174,7 @@
        <widget class="QPushButton" name="btnNew">
         <property name="geometry">
          <rect>
-          <x>458</x>
+          <x>380</x>
           <y>100</y>
           <width>73</width>
           <height>31</height>
@@ -196,7 +196,7 @@
        <widget class="QPushButton" name="btnSave">
         <property name="geometry">
          <rect>
-          <x>538</x>
+          <x>460</x>
           <y>100</y>
           <width>73</width>
           <height>31</height>
@@ -210,6 +210,28 @@
         </property>
         <property name="text">
          <string>저장</string>
+        </property>
+       </widget>
+       <widget class="QPushButton" name="btnDel">
+        <property name="geometry">
+         <rect>
+          <x>540</x>
+          <y>100</y>
+          <width>73</width>
+          <height>31</height>
+         </rect>
+        </property>
+        <property name="text">
+         <string>삭제</string>
+        </property>
+        <property name="autoExclusive">
+         <bool>false</bool>
+        </property>
+        <property name="autoDefault">
+         <bool>false</bool>
+        </property>
+        <property name="flat">
+         <bool>false</bool>
         </property>
        </widget>
       </widget>
