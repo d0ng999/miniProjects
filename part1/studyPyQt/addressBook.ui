@@ -174,11 +174,7 @@
        <widget class="QPushButton" name="btnNew">
         <property name="geometry">
          <rect>
-<<<<<<< Updated upstream
-          <x>380</x>
-=======
-          <x>400</x>
->>>>>>> Stashed changes
+          <x>460</x>
           <y>100</y>
           <width>73</width>
           <height>31</height>
@@ -200,7 +196,7 @@
        <widget class="QPushButton" name="btnSave">
         <property name="geometry">
          <rect>
-          <x>460</x>
+          <x>540</x>
           <y>100</y>
           <width>73</width>
           <height>31</height>
@@ -219,11 +215,7 @@
        <widget class="QPushButton" name="btnDel">
         <property name="geometry">
          <rect>
-<<<<<<< Updated upstream
-          <x>540</x>
-=======
-          <x>470</x>
->>>>>>> Stashed changes
+          <x>380</x>
           <y>100</y>
           <width>73</width>
           <height>31</height>
