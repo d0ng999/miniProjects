@@ -55,7 +55,12 @@
 - 스레드 사용법
   - GUI와 처리시간이 긴 로직을 실행하면 반드시 스레드를 사용해야한다.
 
-- 이메일 보내기 App
-  - 
+![쓰레드비교](https://github.com/d0ng999/miniProjects/blob/main/part1/studyThread/thread.png)
+
+- 이메일 전송, 대량메일 전송
+
+- PyGame
 
 ## 미니프로젝트 실습
+- Bus Stop
+![팀리포지토리](https://github.com/PKNU-IOT3/bustop_pyqt_practice)
