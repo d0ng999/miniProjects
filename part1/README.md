@@ -63,4 +63,4 @@
 
 ## 미니프로젝트 실습
 - Bus Stop
-![팀리포지토리](https://github.com/PKNU-IOT3/bustop_pyqt_practice)
+[팀리포지토리](https://github.com/PKNU-IOT3/bustop_pyqt_practice)
