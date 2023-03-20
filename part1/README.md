@@ -76,6 +76,9 @@
     
 <img src="https://github.com/d0ng999/miniProjects/blob/main/images/folium.png" width="80%" />
 
+- 계산기앱
+  - PyQt
+
 
 ## 미니프로젝트 실습
 - Bus Stop
