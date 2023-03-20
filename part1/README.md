@@ -78,7 +78,10 @@
 
 - 계산기앱
   - PyQt
+    - 16개의 signal을 1개의 slot함수로 처리했다. (예외는 있음)
+    - eval이라는 함수 : 문자열 값(str)을 숫자로 바꿔 계산을 해준다
 
+<img src="https://github.com/d0ng999/miniProjects/blob/main/images/calculator.png" width="80%" />
 
 ## 미니프로젝트 실습
 - Bus Stop
