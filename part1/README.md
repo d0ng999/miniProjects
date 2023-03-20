@@ -12,7 +12,7 @@
 <!-- HTML 주석
 ![네이버뉴스앱](https://github.com/d0ng999/miniProjects/blob/main/images/naver_news2.png)
 -->
-<img src="https://github.com/d0ng999/miniProjects/blob/main/images/naver_news2.png" width="700" />
+<img src="https://github.com/d0ng999/miniProjects/blob/main/images/naver_news2.png" width="80%" />
 
 - Naver API 영화검색 앱 만들기
   - Python 3.11.2
@@ -20,7 +20,7 @@
   - PyQt5 / QtDesigner
   - urllib.request.urlopen : 이미지 다운로드
 
-<img src="https://github.com/d0ng999/miniProjects/blob/main/images/naver_movie.png" width="700" />
+<img src="https://github.com/d0ng999/miniProjects/blob/main/images/naver_movie.png" width="80%" />
 
 ## DB연동 GUI 개발 학습
 - 주소록 앱 만들기
@@ -61,9 +61,21 @@
 
 - 게임만들기 - DinoRun
   - PyGame
-<img src="https://github.com/d0ng999/miniProjects/blob/main/images/pygame2.png" width="700" />
+<img src="https://github.com/d0ng999/miniProjects/blob/main/images/pygame2.png" width="80%" />
 
-<img src="https://github.com/d0ng999/miniProjects/blob/main/images/dinoGame.png" width="700" />
+<img src="https://github.com/d0ng999/miniProjects/blob/main/images/dinoGame.png" width="80%" />
+
+- 게임화면
+  - 전국 대학교 위치맵
+
+- 전국 대학교 위치 Map
+  - Pandas
+  - folium
+  - PyQt
+    - QWebEngineView 추가
+    
+<img src="https://github.com/d0ng999/miniProjects/blob/main/images/folium.png" width="80%" />
+
 
 ## 미니프로젝트 실습
 - Bus Stop

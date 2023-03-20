@@ -152,7 +152,7 @@ class Bird(Obstacle):
     def __init__(self, image) -> None:
         self.type = 0 # 새는 0
         super().__init__(image, self.type)
-        self.rect.y = 250 + random.randint(250, 400) # 새라서 하늘에
+        self.rect.y = 250 # 새라서 하늘에
         self.index = 0 # 0 이미지로 시작
     
     def draw(self, SCREEN):
