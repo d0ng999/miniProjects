@@ -42,12 +42,11 @@ class qtApp(QWidget):
             try:
                 result = eval(self.text_value.lstrip('0')) # eval : 스트링 문자값을 숫자로 계산
                 print(round(result, 4)) # 반올림 4째 자릿수
-                self.txt_view.setText(str(result))
-            except Exception as e:
+                self.txt_view.setText(str(round(result, 4)))
+            except:
                 self.text_view.setText('ERROR')
         else:
             self.text_value += btn_val
-            print(self.text_value)
             self.txt_view.setText(self.text_value)
 
 if __name__ == '__main__':
