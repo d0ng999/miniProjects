@@ -61,6 +61,8 @@
 
 - 게임만들기 - DinoRun
   - PyGame
+<img src="https://github.com/d0ng999/miniProjects/blob/main/images/pygame.png" width="700" />
+
 <img src="https://github.com/d0ng999/miniProjects/blob/main/images/dinoGame.png" width="700" />
 
 ## 미니프로젝트 실습
